@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Boxer Algodon de Hombre",
+    "price": 3200,
+    "src": "/resources/img/product-images/boxer1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Calzoncillos Slip de Niño",
+    "price": 1800,
+    "src": "/resources/img/product-images/calzoncillo2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Medias Caña de Hombre",
+    "price": 850,
+    "src": "/resources/img/product-images/media-h2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Soquetes de Hombre",
+    "price": 780,
+    "src": "/resources/img/product-images/soquete-h1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Medias Caña de Niño",
+    "price": 780,
+    "src": "/resources/img/product-images/media-nino.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vedetinas de dama",
+    "price": 1500,
+    "src": "/resources/img/product-images/vedetina-c1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vedetinas de dama (sin costura)",
+    "price": 2500,
+    "src": "/resources/img/product-images/vedetina-sc1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bombachita de Nena",
+    "price": 1800,
+    "src": "/resources/img/product-images/bombachita1.jpg"
+  }
+]
